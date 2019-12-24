@@ -32,27 +32,31 @@
     },
     data () {
       return {
-        point: 'http://114.115.179.117:8080/psias/images/wechat/point.png',
+        // point: 'http://114.115.179.117:8080/psias/images/wechat/point.png',
+        point: 'http://172.16.100.202:10080/images/point.png',
         disabled: true,
         activityList: [
           {
             title: '2018年度济宁银行客户体验调研',
             time: '2018-10-19 12:00',
-            activityimg: 'http://114.115.179.117:8080/psias/images/wechat/survey1.png',
+            // activityimg: 'http://114.115.179.117:8080/psias/images/wechat/survey1.png',
+            activityimg: 'http://172.16.100.202:10080/images/survey1.png',
             details: '我们珍视您的声音并将持续改进',
             questionNo: '11111'
           },
           {
             title: '体验有奖！华为电脑、Mata20手机等你！',
             time: '2018-10-19 15:00',
-            activityimg: 'http://114.115.179.117:8080/psias/images/wechat/survey2.png',
+            // activityimg: 'http://114.115.179.117:8080/psias/images/wechat/survey2.png',
+            activityimg: 'http://172.16.100.202:10080/images/survey2.png',
             details: '华为笔记本电脑、扫地机器人…等你拿！',
             questionNo: '222222'
           },
           {
             title: '服务评价购买财富产品',
             time: '2018-10-19 13:00',
-            activityimg: 'http://114.115.179.117:8080/psias/images/wechat/survey3.png',
+            // activityimg: 'http://114.115.179.117:8080/psias/images/wechat/survey3.png',
+            activityimg: 'http://172.16.100.202:10080/images/survey3.png',
             details: '填问卷送暖心神秘大礼！',
             questionNo: '333333'
           },
